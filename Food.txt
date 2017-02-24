@@ -3,3 +3,4 @@ Food
 Crisps
 Chocolate
 Sandwhiches
+Non-alcoholic drinks
